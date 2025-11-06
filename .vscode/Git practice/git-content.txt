@@ -1,0 +1,2 @@
+Hello Git and Github
+I am getting familiar with git and how it works, so I am getting real life practice on it. 

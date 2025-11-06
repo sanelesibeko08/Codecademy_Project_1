@@ -1,0 +1,135 @@
+table, th, td {
+    border: 1px white solid;
+    border-radius: 10px;
+    font-family: arial, sans-serif;
+    color: rgb(5, 5, 33);
+    text-align: center;
+    background-image: url(https://pre00.deviantart.net/b1b5/th/pre/f/2011/013/8/5/adidas_3_stripes_by_sherifnagy-d372viu.jpg);
+}
+
+h1 {
+    font-family: BBH+Sans+Bartle, sans-serif;
+    text-align: center;
+    color: darkblue;
+    background-color: deeppink;
+    text-transform: uppercase;
+    border: 5px oldlace solid;
+    border-radius: 5px;
+}
+
+h2 {
+    font-family: BBH+Sans+Bartle, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: darkviolet;
+    background-color: cyan;
+    text-transform: uppercase;
+    border: 5px blanchedalmond solid;
+    border-radius: 5px;
+}
+
+h3 {
+    font-family: BBH+Sans+Bartle, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: maroon;
+    background-color: darkorange;
+    text-transform: capitalize;
+    border: 5px whitesmoke solid;
+    border-radius: 5px;
+}
+
+p {
+    font-family: SUSE+Mono, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    line-height: 25px;
+    border: 3px solid whitesmoke;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 20px;
+    overflow: scroll;
+}
+
+.banner {
+    background-color: darksalmon;
+    position: sticky;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red {
+    color: red;
+    background-color: cornflowerblue;
+}
+
+.italic {
+    font-style: italic;
+}
+
+table.grid {
+    display: grid;
+    width: 1000px;
+    height: 300px;
+    grid-template-columns: 100px 100px 100px / 200px 200px;
+    border: 5px black solid;
+    border-radius: 10px;
+
+}
+
+#AdiBoy {
+    color: chartreuse;
+    text-align: right;
+    background-color: crimson;
+}
+
+#top {
+    text-align: right;
+    font-family: BBH+Sans+Bartle 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    background-color: blue;
+    border: 2px green double;
+    border-radius: 5px;
+}
+
+[href*='top']{
+    color: lawngreen;
+    height: auto;
+    font-size: medium;
+    font-family: cursive;
+}
+
+[href*='bottom']{
+    color: orangered;
+    height: auto;
+    font-size: medium;
+    font-family: fantasy;
+}
+
+ul:hover, ol:hover {
+    color: gold;
+    background-color: black;
+}
+
+#top:hover {
+    color: deepskyblue;
+    background-color: black;
+}
+
+button {
+    padding: 5px;
+    border: 1px solid red;
+    border-radius: 10px;
+    text-decoration: solid;
+    box-shadow: 0px 5px;
+}
+
+button:active {
+    margin-top: 5px;
+    color: black;
+    box-shadow: 0px 0px;
+}
+
+
+
+
+
+
