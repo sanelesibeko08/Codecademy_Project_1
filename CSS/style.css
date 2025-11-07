@@ -90,6 +90,15 @@ table.grid {
     border-radius: 5px;
 }
 
+#promise {
+    color: aquamarine;
+    background-color: blueviolet;
+    text-align: right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    border: 2px gold solid;
+}
+
 [href*='top']{
     color: lawngreen;
     height: auto;
