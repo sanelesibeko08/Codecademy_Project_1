@@ -56,6 +56,30 @@ p {
     align-items: center;
 }
 
+.secretes {
+    background-color: crimson;
+    position: static;
+    display: grid;
+    justify-content: right;
+    align-items: end;
+}
+
+.unseen {
+    background-color: indigo;
+    position: static;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.heart {
+    background-color: lime;
+    position: static;
+    display: grid;
+    justify-content: inherit;
+    align-items: inherit;
+}
+
 .red {
     color: red;
     background-color: cornflowerblue;
