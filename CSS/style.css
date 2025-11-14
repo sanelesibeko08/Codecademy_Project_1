@@ -172,6 +172,14 @@ button:active {
     border-color: aqua;
 }
 
+#planet {
+    background-color: darkmagenta;
+    position: sticky;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
 
 
 
